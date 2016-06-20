@@ -1,0 +1,6 @@
+© Copyright IBM Corporation. 2016.
+
+This licensed material is licensed for academic, non-commercial use only . The licensee may use, copy, and modify the licensed materials in any form without payment to IBM for the sole purposes of evaluating and extending the licensed materials for non-commercial purposes.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the licensed materials..
+
+Notwithstanding anything to the contrary, IBM PROVIDES THE LICENSED MATERIALS ON AN "AS IS" BASIS AND IBM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND ANY WARRANTY OR CONDITION OF NON-INFRINGEMENT. IBM SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR ECONOMIC CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION OF THE LICENSED MATERIALS. IBM SHALL NOT BE LIABLE FOR LOSS OF, OR DAMAGE TO, DATA, OR FOR LOST PROFITS, BUSINESS REVENUE, GOODWILL, OR ANTICIPATED SAVINGS. IBM HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS OR MODIFICATIONS TO THE LICENSED MATERIALS. 
