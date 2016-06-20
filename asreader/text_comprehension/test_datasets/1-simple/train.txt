@@ -1,0 +1,11 @@
+1 Ruda met Alice .
+2 Bob met Ruda .
+3 Alice met Ruda .
+Who met Alice ? XXXXX	Ruda		Alice|Bob|Ruda
+
+1 Bob met Alice .
+2 Bob met Ruda .
+3 Alice met Ruda .
+Who met Alice ? XXXXX	Bob		Alice|Bob|Ruda
+
+
