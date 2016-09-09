@@ -41,7 +41,7 @@ prerequisites.sh
 should install Blocks and dependencies for you.
 It also downloads the Children's Book Test dataset and the CNN and Daily Mail news datasets. We are aware that
 the news data download sometimes crashes. Rerunning the script prepare-rec-data.sh should be able to resume
-the download if that happens (alrenatively you can download the datasets at TODO).
+the download if that happens (alternatively you can download the datasets from http://cs.nyu.edu/~kcho/DMQA/).
 
 However if you prefer to install the dependencies by yourself, some details are below:
 
@@ -54,9 +54,15 @@ However if you prefer to install the dependencies by yourself, some details are 
     Otherwise installation instructions and source download can be found at http://hdfgroup.org/HDF5/release/obtain5.html
 2. Blocks and its dependencies
     Installation instructions can be found at blocks.readthedocs.io/en/latest/setup.html.
-    You should be able to install Blocks including Theano and other dependencies using pip by TODO
+    You should be able to install Blocks including Theano and other dependencies using pip by running
+   ```
+   pip install git+http://github.com/mila-udem/blocks.git@359afad119f8c6ac0ebc3cc6ec6e6475656babae -r https://raw.githubusercontent.com/mila-udem/blocks/master/requirements.txt --user
 
-3. NLTK + punkt corpus (TODO is this needed?)
+   ```
+   It is important to use older version of Blocks since the latest version isn’t backward compatible.
+
+
+3. NLTK + punkt corpus
    This tokenizer that we use for reading the bAbI datasets can be installed using
    ```
    pip install nltk --user

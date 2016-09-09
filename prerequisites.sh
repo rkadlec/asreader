@@ -2,7 +2,7 @@
 # sudo apt-get install libhdf5-serial-dev
 
 # Install Theano+Blocks and their dependencies (remove --user to install for all users (requires root privileges))
-pip install git+http://github.com/mila-udem/blocks.git -r https://raw.githubusercontent.com/mila-udem/blocks/master/requirements.txt --user
+pip install git+http://github.com/mila-udem/blocks.git@359afad119f8c6ac0ebc3cc6ec6e6475656babae -r https://raw.githubusercontent.com/mila-udem/blocks/master/requirements.txt --user
 # nltk tokenizer + punkt corpus (used for tokenizing the bAbI datasets)
 pip install nltk --user
 python -m nltk.downloader punkt
